@@ -2,8 +2,8 @@ class PhpAT80 < Formula
   desc "General-purpose scripting language"
   homepage "https://www.php.net/"
   # Should only be updated if the new version is announced on the homepage, https://www.php.net/
-  url "https://downloads.php.net/~carusogabriel/php-8.0.0beta3.tar.xz"
-  sha256 "a52b4e07e14a3986482e08fdd82df027acc46acaffb6409bef8290dd218fbcec"
+  url "https://downloads.php.net/~pollita/php-8.0.0beta4.tar.xz"
+  sha256 "6059de918632600bef6b96c60f1b922856c1406976a346361897b76d494a0e4c"
   license "PHP-3.01"
 
   keg_only :versioned_formula
